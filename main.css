@@ -1,0 +1,43 @@
+#middle{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.card{
+    margin: 25px;
+    padding:25px; 
+    margin: 10px;
+    background-color: darkgray;
+    border-radius: 25px
+  }
+
+.card-body{
+  background-color: lightgray;
+}
+
+#btn1{
+  margin: 25px;
+  border-radius: 25px;
+}
+
+
+
+
+#btnsArea{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+
+
+
+  .btn{
+    margin: 25px;
+    border-radius: 25px;
+    width: 150px;
+
+  }
+
